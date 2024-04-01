@@ -1,2 +1,2 @@
-# Faculdade
-Meus projetos e atividades cotidianas da faculdade
+## Faculdade
+Repositorio para as atividades relacionadas ao primeiro periodo da minha faculdade 
